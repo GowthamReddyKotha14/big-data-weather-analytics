@@ -1,0 +1,10 @@
+*.csv
+*.parquet
+*.snappy.parquet
+*.crc
+_SUCCESS
+__pycache__/
+.ipynb_checkpoints/
+outputs/full/
+output/
+datasets/
