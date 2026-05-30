@@ -1,9 +1,33 @@
-# CS6500_SP2026_A02_KOTHA
+# Big Data Weather Analytics with Apache Spark
 
-Assignment 2 – Weather Data Analysis with Spark
-Course: CS 6500 Big Data Analytics
-Student: Gowtham Reddy Kotha
+A large-scale weather analytics project built using Apache Spark and PySpark to process historical NOAA climate datasets.
 
+## Project Overview
+
+This project analyzes weather observations to identify:
+
+- Long-term temperature trends
+- Climate variability across decades
+- Seasonal weather patterns
+- Weather station reliability
+
+## Technologies
+
+- Apache Spark
+- PySpark
+- Python
+- Docker
+- Hadoop Ecosystem
+- Matplotlib
+
+## Skills Demonstrated
+
+- Big Data Processing
+- Data Engineering
+- Distributed Computing
+- Data Cleaning
+- Statistical Analysis
+- Data Visualization
 ---
 
 ## ENVIRONMENT SETUP
